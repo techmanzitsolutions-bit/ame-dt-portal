@@ -1,0 +1,26 @@
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Scanner documents
+*.pdf
+Incoming/
+Processing/
+Uploaded/
+Failed/
+
+# ERP local profiles / sessions
+ERP-Profiles/
+state/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local databases/logs
+*.db
+*.sqlite*
+*.log
