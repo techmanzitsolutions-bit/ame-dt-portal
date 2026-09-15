@@ -1,0 +1,9 @@
+{
+  "name": "AME DT Upload",
+  "short_name": "AME DT",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0f172a",
+  "description": "AME online DT document upload portal"
+}
